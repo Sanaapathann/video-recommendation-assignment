@@ -13,7 +13,7 @@ A FastAPI-based video recommendation system that connects to the EmpowerVerse AP
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Sanaapathann/video-recommendation-assignment/edit/main/README.md
    cd video-recommendation-assignment
    ```
 
@@ -28,19 +28,7 @@ A FastAPI-based video recommendation system that connects to the EmpowerVerse AP
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file with your API credentials:
-   ```
-   API_BASE_URL=https://api.socialverseapp.com
-   FLIC_TOKEN=your_flic_token_here
-   RESONANCE_ALGORITHM=your_resonance_algorithm_here
-   
-   # Optional settings
-   PORT=8000
-   HOST=127.0.0.1
-   USE_FALLBACK=true
-   USE_CACHE=true
-   REQUEST_TIMEOUT=5.0
-   ```
+
 
 ## Usage
 
